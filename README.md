@@ -1,5 +1,5 @@
-### Hi there 👋
-
+Bem vindo a minha conta.
+Sou um dedicado do ensino medio.
 <!--
 **DG0703/DG0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
