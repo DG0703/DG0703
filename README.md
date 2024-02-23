@@ -1,5 +1,8 @@
 Bem vindo a minha conta.
+
 Sou um dedicado do ensino medio.
+
+![](https://media1.tenor.com/m/2MVKIq70YZMAAAAC/clueless.gif)
 <!--
 **DG0703/DG0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
