@@ -1,6 +1,6 @@
 Bem vindo a minha conta.
 
-Sou um dedicado do ensino medio.
+Sou um dedicado aluno do ensino medio.
 
 ![](https://media1.tenor.com/m/2MVKIq70YZMAAAAC/clueless.gif)
 <!--
